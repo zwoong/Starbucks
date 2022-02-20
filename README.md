@@ -2,7 +2,7 @@
 
 스타벅스 랜딩 페이지(홈페이지)를 만드는 예제입니다. <br>
 
-[DEMO](https://flamboyant-lumiere-482a1e.netlify.app/) <br/>
+[DEMO](https://priceless-goldwasser-acbc24.netlify.app/) <br/>
 
 ![Starbucks](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/main_screenshot.jpg)
 
